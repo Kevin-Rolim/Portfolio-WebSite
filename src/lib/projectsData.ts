@@ -28,8 +28,9 @@ export const projects: Project[] = [
     category: "Sites",
     image: "/assets/portfolio/lashDesignerSite.png",
     tags: ["Next.js", "TailwindCSS", "Customização"],
+
     liveUrl: "https://lash-designer-site.onrender.com",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Kevin-Rolim/Lash-Designer-Site",
   },
   {
     title: "Website Portfolio de produtos",
