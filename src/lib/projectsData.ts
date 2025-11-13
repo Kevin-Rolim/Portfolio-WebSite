@@ -39,8 +39,8 @@ export const projects: Project[] = [
     image:
       "/assets/portfolio/delicattaCrocheSite.png",
     tags: ["React", "TypeScript", "Formulário"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://delicatta-croche-site.onrender.com",
+    githubUrl: "https://github.com/Kevin-Rolim/Delicatta-Croche-Site",
   },
 
   // == CÓDIGO ==
