@@ -79,14 +79,14 @@ export const projects: Project[] = [
   }, */
 
   // == APPS ==
-  /* {
-    title: "Gerenciador de Tarefas (App)",
+  {
+    title: "Design Flutter Flutterando",
     description:
-      "Estudo de React Native para um app de lista de tarefas com persistência local (AsyncStorage).",
+      "Estudo da ferramenta Flutter seguindo as aulas do canal Flutterando.",
     category: "Apps",
     image:
-      "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
-    tags: ["React Native", "Expo", "AsyncStorage"],
-    githubUrl: "#",
-  }, */
+      "/assets/portfolio/designFlutter.png",
+    tags: ["Flutter", "Dart", "UI Design"],
+    githubUrl: "https://github.com/Kevin-Rolim/Flutter.git",
+  },
 ];
